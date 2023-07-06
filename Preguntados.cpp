@@ -1023,5 +1023,6 @@ int main()
         system("cls");
     } while (Respuestas_Correctas < 6);
     cout << "Lograste completar el preguntados\n\n" << "Codigo: " << CODIGO << endl;
+    _getch();
     return 0;
 }
