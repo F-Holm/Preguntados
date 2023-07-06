@@ -593,51 +593,51 @@ void Iniciar_programa()
 
     Pregunta[80].Pregunta = "Quien pinto \"La noche estrellada\"?";
     Pregunta[80].O1 = "Pablo Picasso";
-    Pregunta[80].O2 = "Vicent Van Gogh";
+    Pregunta[80].O2 = "Salvador Dali";
     Pregunta[80].O3 = "Claude Monet";
-    Pregunta[80].OC = "Salvador Dali";
+    Pregunta[80].OC = "Vicent Van Gogh";
 
     Pregunta[81].Pregunta = "Que artista es conocido por sus esculturas de caballos?";
     Pregunta[81].O1 = "Michelangelo";
-    Pregunta[81].O2 = "Auguste Rodin";
+    Pregunta[81].O2 = "Jeff Koons";
     Pregunta[81].O3 = "Alexander Calder";
-    Pregunta[81].OC = "Jeff Koons";
+    Pregunta[81].OC = "Auguste Rodin";
 
     Pregunta[82].Pregunta = "Quien escribio \"La Odisea\"?";
     Pregunta[82].O1 = "William Shakespeare";
-    Pregunta[82].O2 = "Homer";
+    Pregunta[82].O2 = "Miguel de Cervantes";
     Pregunta[82].O3 = "Dante Alighieri";
-    Pregunta[82].OC = "Miguel de Cervantes";
+    Pregunta[82].OC = "Homer";
 
     Pregunta[83].Pregunta = "Que artista es conocido por sus pinturas de latas de sopa?";
     Pregunta[83].O1 = "Jackson Pollock";
-    Pregunta[83].O2 = "Andy Warhol";
+    Pregunta[83].O2 = "Frida Kahlo";
     Pregunta[83].O3 = "Pablo Picasso";
-    Pregunta[83].OC = "Frida Kahlo";
+    Pregunta[83].OC = "Andy Warhol";
 
     Pregunta[84].Pregunta = "Quien compuso \"La Traviata\"?";
     Pregunta[84].O1 = "Wolfgang Amadeus Mozart";
-    Pregunta[84].O2 = "Giuseppe Verdi";
+    Pregunta[84].O2 = "Johann Sebastian Bach";
     Pregunta[84].O3 = "Ludwig van Beethoven";
-    Pregunta[84].OC = "Johann Sebastian Bach";
+    Pregunta[84].OC = "Giuseppe Verdi";
 
     Pregunta[85].Pregunta = "Que artista es conocido por sus pinturas de flores?";
-    Pregunta[85].O1 = "Jackson Pollock";
+    Pregunta[85].O1 = "Salvador Dali";
     Pregunta[85].O2 = "Andy Warhol";
     Pregunta[85].O3 = "Pablo Picasso";
-    Pregunta[85].OC = "Salvador Dali";
+    Pregunta[85].OC = "Georgia O'Keeffe";
 
     Pregunta[86].Pregunta = "Quien escribio \"Romeo y Julieta\"?";
-    Pregunta[86].O1 = "William Shakespeare";
+    Pregunta[86].O1 = "Miguel de Cervantes";
     Pregunta[86].O2 = "Gabriel Garcia Marquez";
     Pregunta[86].O3 = "Ernest Hemingway";
-    Pregunta[86].OC = "Miguel de Cervantes";
+    Pregunta[86].OC = "William Shakespeare";
 
     Pregunta[87].Pregunta = "Que artista es conocido por sus pinturas de \"Campbell's Soup Cans\"?";
     Pregunta[87].O1 = "Jackson Pollock";
-    Pregunta[87].O2 = "Andy Warhol";
+    Pregunta[87].O2 = "Frida Kahlo";
     Pregunta[87].O3 = "Pablo Picasso";
-    Pregunta[87].OC = "Frida Kahlo";
+    Pregunta[87].OC = "Andy Warhol";
 
     Pregunta[88].Pregunta = "Quien compuso \"La Primavera\"?";
     Pregunta[88].O1 = "Wolfgang Amadeus Mozart";
@@ -649,13 +649,13 @@ void Iniciar_programa()
     Pregunta[89].O1 = "Michelangelo";
     Pregunta[89].O2 = "Auguste Rodin";
     Pregunta[89].O3 = "Alexander Calder";
-    Pregunta[89].OC = "Jeff Koons";
+    Pregunta[89].OC = "Ninguna de las anteriores";
 
     Pregunta[90].Pregunta = "Quien escribio \"La Divina Comedia\"?";
     Pregunta[90].O1 = "William Shakespeare";
     Pregunta[90].O2 = "Homer";
-    Pregunta[90].O3 = "Dante Alighieri";
-    Pregunta[90].OC = "Miguel de Cervantes";
+    Pregunta[90].O3 = "Miguel de Cervantes";
+    Pregunta[90].OC = "Dante Alighieri";
 
     Pregunta[91].Pregunta = "Que artista es conocido por sus pinturas de \"Las Senioritas de Avignon\"?";
     Pregunta[91].O1 = "Georgia O'Keeffe";
@@ -673,7 +673,7 @@ void Iniciar_programa()
     Pregunta[93].O1 = "Jackson Pollock";
     Pregunta[93].O2 = "Vincent van Gogh";
     Pregunta[93].O3 = "Claude Monet";
-    Pregunta[93].OC = "Edvard Munch";
+    Pregunta[93].OC = "Michelangelo Merisi da Caravaggio";
 
     Pregunta[94].Pregunta = "Quien escribio \"Las Aventuras de Tom Sawyer\"?";
     Pregunta[94].O1 = "Antoine de Saint - Exupery";
@@ -682,16 +682,16 @@ void Iniciar_programa()
     Pregunta[94].OC = "Mark Twain";
 
     Pregunta[95].Pregunta = "Que artista es conocido por sus esculturas de \"EI David\"?";
-    Pregunta[95].O1 = "Michelangelo";
+    Pregunta[95].O1 = "Jeff Koons";
     Pregunta[95].O2 = "Auguste Rodin";
     Pregunta[95].O3 = "Alexander Calder";
-    Pregunta[95].OC = "Jeff Koons";
+    Pregunta[95].OC = "Michelangelo";
 
     Pregunta[96].Pregunta = "Quien compuso \"La Novena Sinfonia\"?";
     Pregunta[96].O1 = "Wolfgang Amadeus Mozart";
     Pregunta[96].O2 = "Giuseppe Verdi";
-    Pregunta[96].O3 = "Ludwig van Beethoven";
-    Pregunta[96].OC = "Johann Sebastian Bach";
+    Pregunta[96].O3 = "Johann Sebastian Bach";
+    Pregunta[96].OC = "Ludwig van Beethoven";
 
     Pregunta[97].Pregunta = "Que artista es conocido por sus pinturas de \"La Mona Lisa\"?";
     Pregunta[97].O1 = "Georgia O'Keeffe";
